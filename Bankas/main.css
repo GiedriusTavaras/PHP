@@ -1,0 +1,15 @@
+body {
+    background-color: #a7f336;
+    margin-bottom: 20px;
+    color: black;
+    margin: 10px;
+    float: left;
+    width: 50px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 300px;
+    background-image: image();
+    background-size: cover;
+    background-position: center;
+    background-color:#ffd700;
+}
